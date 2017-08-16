@@ -1,0 +1,216 @@
+project_id,govex_service,city_id,focus_area,start_date,end_date
+1,Open Data,142,Blight,2015-12-08,2017-08-03
+2,Open Data,108,Economic Development,2016-05-11,2017-06-12
+3,Open Data,117,Utilities,2016-05-11,2017-07-19
+4,Open Data,190,Transportation,2016-05-31,2017-02-08
+5,Open Data,198,Utilities,2016-05-31,2017-01-19
+6,Open Data,235,Utilities,2016-05-31,2017-07-31
+7,Open Data,273,Transportation,2016-05-31,2017-08-14
+8,Open Data,66,Economic Development,2016-06-03,2017-08-13
+9,Open Data,121,Transportation,2016-06-03,2017-08-08
+10,Open Data,181,Homelessness,2016-06-03,2017-07-31
+11,Open Data,202,Economic Development,2016-06-03,2017-06-12
+12,Open Data,147,Blight,2016-06-06,2017-08-14
+13,Performance Analytics,147,Homelessness,2016-06-15,2017-08-14
+14,Open Data,54,Homelessness,2016-06-16,2017-02-08
+15,Open Data,118,Transportation,2016-06-20,2017-02-26
+16,Open Data,154,Public Safety,2016-06-22,2017-02-28
+17,Open Data,101,Utilities,2016-06-23,2017-06-28
+18,Open Data,166,Homelessness,2016-06-23,2017-02-08
+19,Open Data,136,Economic Development,2016-06-23,2017-03-03
+20,Open Data,127,Transportation,2016-06-24,2017-01-06
+21,Open Data,24,Homelessness,2016-06-24,2017-01-24
+22,Open Data,123,Economic Development,2016-06-28,2017-07-31
+23,Open Data,47,Blight,2016-06-30,2017-08-11
+24,Open Data,60,Transportation,2016-06-30,2017-06-11
+25,Open Data,140,Transportation,2016-06-30,2017-07-05
+26,Open Data,157,Utilities,2016-06-30,2017-08-14
+27,Open Data,185,Homelessness,2016-06-30,2017-07-21
+28,Open Data,180,Utilities,2016-06-30,2017-07-01
+29,Open Data,36,Economic Development,2016-07-01,2017-07-21
+30,Open Data,106,Economic Development,2016-07-01,2017-08-07
+31,Performance Analytics,180,Blight,2016-07-01,2017-04-07
+32,Open Data,256,Utilities,2016-07-05,2017-08-14
+33,Open Data,14,Economic Development,2016-07-05,2017-03-16
+34,Performance Analytics,117,Transportation,2016-07-05,2017-08-19
+35,Open Data,211,Blight,2016-07-06,2017-01-06
+36,Open Data,222,Economic Development,2016-07-08,2017-07-23
+37,Open Data,105,Transportation,2016-07-09,2017-01-19
+38,Performance Analytics,14,Homelessness,2016-07-13,2017-06-16
+39,Performance Analytics,127,Homelessness,2016-07-15,2017-03-10
+40,Open Data,104,Economic Development,2016-07-19,2017-07-31
+41,Open Data,122,Transportation,2016-07-19,2017-07-31
+42,Open Data,138,Utilities,2016-07-19,2017-08-14
+43,Open Data,269,Blight,2016-07-19,2017-08-14
+44,Open Data,51,Public Safety,2016-07-20,2017-04-21
+45,Open Data,161,Economic Development,2016-07-20,2017-08-02
+46,Open Data,96,Public Safety,2016-07-25,2017-07-31
+47,Open Data,21,Economic Development,2016-07-26,2017-05-05
+48,Performance Analytics,104,Blight,2016-07-26,2017-07-31
+49,Performance Analytics,136,Public Safety,2016-07-26,2017-08-14
+50,Open Data,45,Homelessness,2016-07-26,2017-05-23
+51,Open Data,89,Transportation,2016-07-28,2017-08-14
+52,Open Data,8,Transportation,2016-07-29,2017-08-05
+53,Open Data,3,Economic Development,2016-08-01,2017-04-10
+54,Open Data,53,Homelessness,2016-08-01,2017-08-14
+55,Open Data,85,Blight,2016-08-01,2017-08-07
+56,Open Data,139,Economic Development,2016-08-01,2017-08-13
+57,Open Data,223,Utilities,2016-08-01,2017-07-31
+58,Open Data,71,Economic Development,2016-08-05,2017-08-26
+59,Open Data,239,Homelessness,2016-08-09,2017-04-20
+60,Open Data,103,Utilities,2016-08-10,2017-06-12
+61,Open Data,13,Transportation,2016-08-11,2017-07-31
+62,Open Data,33,Blight,2016-08-11,2017-07-31
+63,Open Data,57,Blight,2016-08-11,2017-07-31
+64,Open Data,35,Economic Development,2016-08-12,2017-08-14
+65,Open Data,39,Public Safety,2016-08-12,2017-07-31
+66,Open Data,44,Public Safety,2016-08-12,2016-08-26
+67,Open Data,151,Public Safety,2016-08-12,2017-07-21
+68,Open Data,226,Public Safety,2016-08-12,2017-08-13
+69,Performance Analytics,269,Public Safety,2016-08-13,2017-07-31
+70,Open Data,238,Economic Development,2016-08-13,2017-08-04
+71,Open Data,67,Public Safety,2016-08-13,2017-08-27
+72,Performance Analytics,45,Utilities,2016-08-15,2017-05-15
+73,Performance Analytics,157,Transportation,2016-08-15,2017-08-13
+74,Data Science,147,Utilities,2016-08-18,2017-08-05
+75,Open Data,168,Transportation,2016-08-19,2017-04-03
+76,Open Data,220,Transportation,2016-08-19,2016-10-25
+77,Performance Analytics,223,Public Safety,2016-08-19,2017-05-05
+78,Performance Analytics,190,Homelessness,2016-08-19,2017-08-17
+79,Data Science,117,Utilities,2016-08-20,2017-05-30
+80,Open Data,206,Blight,2016-08-24,2017-06-30
+81,Open Data,212,Economic Development,2016-08-24,2016-09-10
+82,Open Data,11,Homelessness,2016-08-25,2017-07-10
+83,Performance Analytics,67,Blight,2016-08-25,2017-08-11
+84,Open Data,141,Public Safety,2016-08-25,2017-08-10
+85,Open Data,264,Transportation,2016-08-25,2017-08-11
+86,Open Data,263,Homelessness,2016-08-27,2017-08-26
+87,Performance Analytics,264,Utilities,2016-08-28,2017-07-12
+88,Open Data,234,Public Safety,2016-08-31,2017-08-02
+89,Performance Analytics,212,Economic Development,2016-09-08,2017-06-30
+90,Open Data,15,Utilities,2016-09-12,2017-07-07
+91,Open Data,68,Economic Development,2016-09-30,2017-08-11
+92,Open Data,99,Utilities,2016-09-30,2017-08-11
+93,Open Data,109,Blight,2016-09-30,2017-01-06
+94,Open Data,169,Transportation,2016-09-30,2017-08-11
+95,Open Data,251,Economic Development,2016-09-30,2017-06-11
+96,Performance Analytics,118,Transportation,2016-10-02,2017-08-15
+97,Performance Analytics,24,Economic Development,2016-10-05,2017-01-06
+98,Performance Analytics,47,Homelessness,2016-10-05,2017-03-10
+99,Open Data,48,Economic Development,2016-10-05,2017-08-14
+100,Performance Analytics,71,Transportation,2016-10-05,2017-07-17
+101,Performance Analytics,141,Public Safety,2016-10-05,2017-07-10
+102,Open Data,152,Blight,2016-10-05,2017-05-26
+103,Performance Analytics,161,Economic Development,2016-10-05,2017-08-14
+104,Performance Analytics,238,Public Safety,2016-10-05,2017-08-14
+105,Data Science,157,Public Safety,2016-10-05,2017-08-17
+106,Performance Analytics,99,Public Safety,2016-10-05,2017-08-19
+107,Open Data,172,Utilities,2016-10-08,2017-06-21
+108,Performance Analytics,106,Utilities,2016-10-17,2017-06-03
+109,Open Data,143,Homelessness,2016-10-19,2017-08-14
+110,Performance Analytics,234,Public Safety,2016-10-21,2017-02-19
+111,Performance Analytics,3,Blight,2016-10-25,2017-01-18
+112,Performance Analytics,140,Economic Development,2016-11-02,2017-03-06
+113,Open Data,126,Transportation,2016-11-05,2017-09-03
+114,Open Data,70,Homelessness,2016-11-07,2017-06-12
+115,Open Data,189,Utilities,2016-11-17,2017-06-12
+116,Open Data,167,Homelessness,2016-11-23,2017-01-10
+117,Data Science,47,Utilities,2016-12-06,2017-06-29
+118,Performance Analytics,139,Transportation,2016-12-08,2017-01-23
+119,Open Data,27,Public Safety,2016-12-18,2017-05-14
+120,Open Data,93,Public Safety,2016-12-20,2017-03-10
+121,Performance Analytics,89,Blight,2016-12-28,2017-05-16
+122,Data Science,14,Public Safety,2017-01-01,2017-03-13
+123,Open Data,43,Economic Development,2017-01-05,2017-08-11
+124,Performance Analytics,172,Public Safety,2017-01-05,2017-08-11
+125,Open Data,277,Homelessness,2017-01-05,2017-08-11
+126,Open Data,84,Homelessness,2017-01-06,2017-08-10
+127,Open Data,114,Economic Development,2017-01-06,2017-02-26
+128,Open Data,150,Blight,2017-01-06,2017-02-06
+129,Open Data,158,Utilities,2017-01-06,2017-08-13
+130,Performance Analytics,222,Homelessness,2017-01-06,2017-04-30
+131,Performance Analytics,235,Utilities,2017-01-06,2017-05-05
+132,Performance Analytics,239,Transportation,2017-01-06,2017-05-05
+133,Performance Analytics,70,Homelessness,2017-01-09,2017-02-12
+134,Performance Analytics,48,Blight,2017-01-09,2017-09-02
+135,Open Data,29,Economic Development,2017-01-12,2017-08-03
+136,Performance Analytics,84,Utilities,2017-01-12,2017-05-17
+137,Performance Analytics,158,Economic Development,2017-01-14,2017-08-21
+138,Performance Analytics,121,Economic Development,2017-01-16,2017-03-04
+139,Performance Analytics,93,Utilities,2017-01-19,2017-08-08
+140,Open Data,253,Homelessness,2017-01-21,2017-05-16
+141,Performance Analytics,108,Economic Development,2017-01-25,2017-08-16
+142,Performance Analytics,251,Blight,2017-01-25,2017-05-08
+143,Open Data,26,Public Safety,2017-01-30,2017-03-30
+144,Performance Analytics,168,Utilities,2017-01-30,2017-02-13
+145,Open Data,207,Public Safety,2017-01-30,2017-08-11
+146,Performance Analytics,43,Transportation,2017-02-01,2017-02-25
+147,Open Data,213,Homelessness,2017-02-05,2017-04-20
+148,Data Science,108,Homelessness,2017-02-06,2017-04-18
+149,Performance Analytics,207,Homelessness,2017-02-07,2017-02-13
+150,Performance Analytics,226,Blight,2017-02-12,2017-04-08
+151,Performance Analytics,8,Blight,2017-02-13,2017-02-13
+152,Performance Analytics,54,Homelessness,2017-02-13,2017-02-13
+153,Open Data,144,Homelessness,2017-02-13,2017-02-13
+154,Performance Analytics,151,Transportation,2017-02-13,2017-08-29
+155,Performance Analytics,122,Public Safety,2017-02-28,2017-08-11
+156,Performance Analytics,29,Public Safety,2017-03-16,2017-07-06
+157,Performance Analytics,36,Utilities,2017-04-25,2017-04-25
+158,Open Data,130,Public Safety,2017-04-28,2017-04-28
+159,Performance Analytics,253,Public Safety,2017-04-28,2017-07-12
+160,Performance Analytics,105,Public Safety,2017-05-01,2017-08-08
+161,Performance Analytics,169,Public Safety,2017-05-03,2017-08-04
+162,Data Science,161,Utilities,2017-05-05,2017-08-21
+163,Performance Analytics,126,Blight,2017-05-08,2017-08-14
+164,Open Data,271,Utilities,2017-05-15,2017-08-14
+165,Performance Analytics,142,Homelessness,2017-05-18,2017-07-26
+166,Open Data,280,Transportation,2017-05-19,2017-05-19
+167,Performance Analytics,123,Public Safety,2017-05-22,2017-06-15
+168,Performance Analytics,263,Public Safety,2017-05-22,2017-06-16
+169,Performance Analytics,51,Transportation,2017-05-23,2017-08-19
+170,Performance Analytics,189,Transportation,2017-05-29,2017-06-27
+171,Open Data,20,Public Safety,2017-06-12,2017-07-17
+172,Performance Analytics,280,Public Safety,2017-06-12,2017-08-04
+173,Performance Analytics,154,Blight,2017-06-14,2017-07-07
+174,Performance Analytics,167,Homelessness,2017-06-18,2017-08-22
+175,Performance Analytics,35,Homelessness,2017-06-20,2017-06-22
+176,Performance Analytics,114,Utilities,2017-06-20,2017-06-22
+177,Performance Analytics,143,Public Safety,2017-06-20,2017-06-20
+178,Performance Analytics,198,Blight,2017-06-20,2017-06-22
+179,Performance Analytics,256,Homelessness,2017-06-20,2017-06-20
+180,Performance Analytics,57,Blight,2017-06-21,2017-06-28
+181,Performance Analytics,68,Homelessness,2017-06-22,2017-06-26
+182,Performance Analytics,26,Homelessness,2017-06-23,2017-07-10
+183,Performance Analytics,33,Blight,2017-06-24,2017-06-24
+184,Performance Analytics,27,Utilities,2017-06-26,2017-07-06
+185,Data Science,3,Economic Development,2017-06-28,2017-07-24
+186,Performance Analytics,11,Homelessness,2017-06-28,2017-07-31
+187,Performance Analytics,13,Utilities,2017-06-28,2017-06-28
+188,Performance Analytics,21,Transportation,2017-06-28,2017-07-31
+189,Performance Analytics,44,Transportation,2017-06-28,2017-07-31
+190,Data Science,48,Utilities,2017-06-28,2017-06-28
+191,Performance Analytics,60,Public Safety,2017-06-28,2017-07-12
+192,Data Science,67,Blight,2017-06-28,2017-06-28
+193,Data Science,70,Utilities,2017-06-28,2017-07-31
+194,Data Science,71,Utilities,2017-06-28,2017-07-10
+195,Data Science,84,Public Safety,2017-06-28,2017-06-28
+196,Data Science,139,Public Safety,2017-06-28,2017-07-10
+197,Data Science,140,Economic Development,2017-06-28,2017-06-28
+198,Data Science,142,Economic Development,2017-06-28,2017-07-10
+199,Data Science,157,Economic Development,2017-06-28,2017-06-28
+200,Data Science,172,Homelessness,2017-06-28,2017-06-28
+201,Performance Analytics,206,Economic Development,2017-06-28,2017-06-28
+202,Performance Analytics,211,Blight,2017-06-28,2017-06-28
+203,Performance Analytics,220,Blight,2017-06-28,2017-07-21
+204,Open Data,260,Economic Development,2017-06-28,2017-07-31
+205,Performance Analytics,271,Transportation,2017-06-28,2017-06-28
+206,Performance Analytics,260,Blight,2017-07-05,2017-07-05
+207,Performance Analytics,85,Blight,2017-07-11,2017-07-25
+208,Performance Analytics,15,Public Safety,2017-07-19,2017-08-09
+209,Open Data,23,Utilities,2017-07-24,2017-08-07
+210,Open Data,252,Homelessness,2017-07-24,2017-08-03
+211,Data Science,220,Public Safety,2017-07-27,2017-08-23
+212,Performance Analytics,20,Economic Development,2017-07-31,2017-07-31
+213,Data Science,157,Economic Development,2017-07-31,2017-08-03
+214,Performance Analytics,138,Transportation,2017-08-02,2017-08-10
+215,Performance Analytics,181,Public Safety,2017-08-17,2017-08-06
